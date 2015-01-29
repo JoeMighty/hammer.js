@@ -17,7 +17,7 @@ Hammer.js is a javascript library that can be used to control gestures on touch 
 - Transform (pinch)
 
 
-## Demo's
+## Demos
 > While it's rollin', hold on /
 > Pump a little bit and let 'em know it's goin' on /
 > Like that, like that
